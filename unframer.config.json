@@ -1,0 +1,7 @@
+{
+  "schema": "https://unframer-schema.vercel.app/schema.json",
+  "outDir": "./src/framer",
+  "components": {
+    "top-body": "https://framer.com/m/Top-Body-1MoWD7.js@7ay2BezMykfYIkLBroXK"
+  }
+}

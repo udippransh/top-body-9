@@ -1,0 +1,16 @@
+/* This css file contains your color variables, sometimes these get desynced when updated in Framer so it's good that you copy and paste this snippet into your app css */
+/* Bug: https://www.framer.community/c/bugs/color-style-unlinks-when-copying-component-between-projects-resulting-in-potential-value-discrepancy */
+:root {
+    /* Used by top-body.js */
+    --token-72036876-ebf3-4aa1-9dc8-fff4f4d01642: #080808; /* Also seen as #263c48, rgb(0, 28, 74), rgb(31, 32, 33), rgb(38, 60, 72). */
+    --token-340fb4e1-8540-48e8-acd6-05498271d557: #445063; /* Also seen as #5a6d75, rgb(112, 112, 112), rgb(90, 91, 94). */
+    --token-22b1f2b6-985d-46a2-9d4c-a7a5c2dd82bd: rgb(255, 255, 255); 
+    --token-3b1e91f3-71b5-41d5-94e9-e37da7cf5f8a: rgb(255, 255, 255); /* Also seen as rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.8). */
+    --token-f0104516-bb7c-4418-9678-fe8d46d20db4: rgb(247, 247, 247); 
+    --token-4a11a699-6c15-4f59-9334-5ad1605f573f: rgb(255, 255, 255); 
+    --token-a15a4174-821f-4561-b7b3-6ff61c809a2b: rgb(35, 37, 41); 
+    --token-031db8d3-c780-497c-ad97-5b59166a194b: rgb(255, 121, 38); 
+    --token-a9c0d1fc-07e0-4911-a318-e994f661b077: rgb(247, 247, 247); /* Also seen as rgb(252, 252, 252). */
+    --token-1a663172-a7ab-4350-b417-ce3a7623b699: rgb(28, 29, 31); /* Also seen as rgb(51, 99, 255). */
+    --token-dfb2e740-4ce4-4c2e-ad3c-5a48561a9971: rgb(245, 251, 255); 
+}
